@@ -10,6 +10,8 @@ I'm boring.
 
 ## Todo
 
-- [ ] import posts from the old blog
+- [ ] import posts from fsis.site
 - [ ] set up hugo/jakyll/hakyl/whatever to generate publishable site
 - [ ] set up/automate publishing
+- [ ] import reviews from goodreads
+- [ ] import reviews from letterboxd
