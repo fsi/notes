@@ -1,5 +1,8 @@
 ---
 Title: Welcome!
+outputs:
+  - HTML
+  - RSS
 ---
 
 # Welcome

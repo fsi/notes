@@ -1,3 +1,6 @@
 [submodule "themes/hugo-bearblog"]
 	path = themes/hugo-bearblog
 	url = git@github.com:fsi/hugo-bearblog.git
+[submodule "public"]
+	path = public
+	url = git@github.com:fsi/fsi.github.io.git
