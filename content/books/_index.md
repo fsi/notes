@@ -1,4 +1,4 @@
 ---
-title: Books
+title: ./books
 menu: main
 ---

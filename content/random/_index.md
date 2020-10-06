@@ -1,4 +1,4 @@
 ---
-title: Random
+title: ./random
 menu: main
 ---
