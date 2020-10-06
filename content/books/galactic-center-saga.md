@@ -1,8 +1,16 @@
 ---
-postedAt: "2020-07-18T16:07+03:00"
+title: Galactic Center Saga
+description: >
+  Notes on Galactic Center Saga by Gregory Benford
+date: 2020-07-18
+tags:
+  - to-read
+  - books:scifi
 ---
 
 # Galactic Center Saga
+
+Still have to read these.
 
 The Galactic Center Saga is a series of books by author Gregory Benford detailing a galactic war between mechanical and biological life.
 

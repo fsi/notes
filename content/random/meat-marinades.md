@@ -1,3 +1,10 @@
+---
+title: Meat marinades
+date: 2020-09-29
+---
+
+# Meat marinades
+
 ## For lamb
 
 - Peel and chop the garlic into fine pieces. Mix the garlic, rosemary, olive oil, and a pinch of salt and pepper in a shallow baking dish or another nonreactive dish. This marinade will penetrate the steaks for a tender result.

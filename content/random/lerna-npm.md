@@ -1,3 +1,8 @@
+---
+title: A bunch of links about lerna/npm/typescript integration
+date: 2020-09-04
+---
+
 # A bunch of links about lerna/npm/typescript integration
 
 - https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/

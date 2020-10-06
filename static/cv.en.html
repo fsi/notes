@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Play:700" rel="stylesheet" media="bogus-preload">
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      html, body {
+        margin: 0 auto;
+        width: 100%;
+        max-width: 960px;
+        height: 100%;
+        font-family: 'Open Sans', sans-serif;
+      }
+      body {
+        padding: 5px;
+      }
+      h1, h2, h3 {
+        font-family: 'Play', sans-serif;
+      }
+      h1 > small,
+      h2 > small,
+      h3 > small {
+        color: rgba(0, 0, 0, 0.6);
+      }
+      header {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        width: 100%;
+      }
+      header h1 {
+        flex-shrink: 1;
+        flex-grow: 1;
+        min-width: 0;
+      }
+      header img {
+        flex-shrink: 0;
+        flex-grow: 0;
+        margin-right: 1em;
+        width: 150px;
+        height: 150px;
+      }
+      .contacts,
+      .skills {
+        width: 100%;
+      }
+      .contacts ul,
+      .skills ul {
+        margin: 0;
+        margin-bottom: 1em;
+        padding: 0;
+        list-style-type: none;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+      }
+      .contacts li + li:before,
+      .skills li + li:before {
+        content: '—';
+        margin-left: 5px;
+        margin-right: 5px;
+      }
+      .experience ul li + li {
+        margin-top: 0.5em;
+      }
+      section + section {
+        border-top: 1px dashed rgba(0, 0, 0, 0.45);
+      }
+      hr {
+        border-top: 1px dashed rgba(0, 0, 0, 0.45);
+        border-bottom: none;
+        border-left: none;
+        border-right: none;
+      }
+    </style>
+
+    <title>Ivan Firsov</title>
+  </head>
+  <body>
+
+    <header>
+      <img src="/ivan-firsov.jpg" alt="photo" />
+      <h1>Ivan Alexandrovich Firsov</h1>
+    </header>
+
+    <section class="contacts">
+      <h2>Contact me</h2>
+      <ul>
+        <li><a href="https://vk.com/dasfsi">vk</a></li>
+        <li><a href="https://www.facebook.com/dasfsi">facebook</a></li>
+        <li><a href="https://github.com/fsi">github</a></li>
+        <li><strong>skype:</strong> das_fsi</li>
+        <li><strong>email:</strong> fsi2nd+cv@gmail.com</li>
+      </ul>
+    </section>
+
+    <section class="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>JavaScript (4 years experience)</li>
+        <li>Node.js (4 years experience)</li>
+        <li>React.js (3 years experience)</li>
+        <li>React Native (1 years experience)</li>
+        <li>Redux</li>
+        <li>redux-thunk, redux-promise, redux-saga</li>
+        <li>Webpack</li>
+        <li>Mongodb</li>
+        <li>Redis</li>
+        <li>MySQL/MariaDB</li>
+        <li>RabbitMQ</li>
+        <li>Docker</li>
+        <li>Flow</li>
+        <li>Ramda/Lodash/Underscore.js</li>
+        <li>Git</li>
+        <li>Rollup</li>
+      </ul>
+    </section>
+
+    <section class="education">
+      <h2>Education</h2>
+      <article>
+        <h3>Ural Federal University (ex. Ural State University)
+          <small>September 2004 — June 2011</small></h3>
+        <p>Faculty of Physics (currently Natural Sciences Institute).</p>
+        <p>M.Sc. in Physics.</p>
+        <p>Research included <em>ab initio</em> and semiempirical calculations of
+        dielectric crystals, using both locally developed and commercial software.</p>
+        <p>Programming work consisted of supporting legacy FORTRAN code and writing
+        Python scripts for batch execution and analysing results.</p>
+      </article>
+    </section>
+
+    <section class="experience">
+      <h2>Experience</h2>
+      <article>
+        <h3>Ural Federal University — engineer
+          <small>June 2011 — November 2013</small></h3>
+        <p>After graduating I continued working at Computer Modeling Laboratory,
+        performing the same tasks and teaching undergraduate students</p>
+        <p>I left the laboratory due to monetary concerns.</p>
+      </article>
+      <article>
+        <h3>OnlinePBX — Fullstack web developer
+           <small>November 2013 — May 2017</small></h3>
+        <p>Supported legacy PHP/jQuery code</p>
+        <p>Developed Chrome extension for OnlinePBX. Angular.js 1.x with WebSocket API.</p>
+        <p>Developed web applications using OnlinePBX REST/WebSocket APIs.
+        Server-side was mostly in PHP and node.js, client-side was done using Angular&nbsp;1.x
+        framework, with Bootstrap for design.</p>
+        <p>Developed, as part of a small team, current OnlinePBX back-end architecture,
+        based on node.js microservices in Docker containers, with AMQP (RabbitMQ)
+        for discovery and communication.</p>
+        <p>Developed, again as part of a small team, current OnlinePBX front-end,
+        using React and Redux libraries.</p>
+        <p>Also taught and mentored junior programmers</p>
+      </article>
+      <article>
+        <h3>Digi-Soft — Front End developer
+           <small>June 2017 — present</small></h3>
+        <p>Developed an IOS / Android app (using React Native) for client's custom ERP system</p>
+        <p>Developed (as part of a two-man team) a number of static / pre-rendered sites with React and Gatsby.js:</p>
+        <ul>
+          <li><a href="https://holosun.de">Holosun</a></li>
+          <li><a href="https://picoground.de">Picoground</a></li>
+          <li><a href="https://pico.group">Pico.group</a></li>
+          <li><a href="https://digi-soft.ru">Digi-Soft</a></li>
+        </ul>
+      </article>
+    </section>
+
+    <section class="about">
+      <h2>About</h2>
+      <p>Born in Jan 1988 (30 years)</p>
+      <p>Hobbies include drawing, music and board games.</p>
+      <p>I like clean and well-organized code, and use standard-js and prettier-standard with my code.</p>
+    </section>
+    <hr />
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Play:700" rel="stylesheet">
+  </body>
+</html>

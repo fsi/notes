@@ -1,3 +1,8 @@
+---
+title: How to add subtitle track to an mp4 file
+date: 2020-07-10
+---
+
 # How to add subtitle track to an mp4 file
 
 This is hard to keep in memory, and the source page might get deleted (and ffmpeg's cli is unlikely to change).

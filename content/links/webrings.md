@@ -1,3 +1,9 @@
+---
+title: links/webrings
+description: >
+  Links to other collections of links
+date: 0
+---
 # links/webrings
 
 Links to other collections of links

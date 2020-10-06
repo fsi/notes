@@ -1,4 +1,15 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
 theme = "hugo-bearblog"
+
+baseURL = "http://fsis.site/"
+languageCode = "en-US"
+title = "fsis.site 🐴"
+author = "FSi"
+copyright = "Copyright © 2020, FSi"
+
+enableRobotsTXT = true
+
+[params]
+  description = "fsi's personal site and blog"
+  favicon = "images/logo.png"
+  title = "fsis.site 🐴"
+  images = ["images/logo.png"]
