@@ -1,6 +1,6 @@
 theme = "hugo-bearblog"
 
-baseURL = "http://fsis.site/"
+baseURL = "https://fsis.site/"
 languageCode = "en-US"
 title = "fsis.site 🐴"
 author = "FSi"

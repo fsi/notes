@@ -15,10 +15,10 @@
         <![CDATA[The feed has been moved]]>
       </title>
       <description>
-        <![CDATA[The feed has been moved to http://fsis.site/blog/index.xml - please update your aggregators]]>
+        <![CDATA[The feed has been moved to https://fsis.site/blog/index.xml - please update your aggregators]]>
       </description>
-      <link>http://fsis.site/blog/index.xml</link>
-      <guid isPermaLink="false">http://fsis.site/blog/index.xml</guid>
+      <link>https://fsis.site/blog/index.xml</link>
+      <guid isPermaLink="false">https://fsis.site/blog/index.xml</guid>
       <pubDate>Tue, 6 Oct 2020 18:52:00 GMT</pubDate>
       <content:encoded>The feed has been moved to https://fsis.site/blog/index.xml - please update your aggregators</content:encoded>
     </item>
