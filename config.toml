@@ -13,3 +13,8 @@ enableRobotsTXT = true
   favicon = "images/logo.png"
   title = "fsis.site 🐴"
   images = ["images/logo.png"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
