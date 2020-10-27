@@ -11,4 +11,5 @@ Hello and welcome to my personal space, where I will probably post random links 
 
 - [recent posts rss](/blog/index.xml)
 - <a rel="me" href="https://twitter.com/das_fsi">twitter</a>
+- <a rel="me" href="https://mastodon.social/@fsi">mastodon</a>
 - <a rel="me" href="https://github.com/fsi">github</a>
