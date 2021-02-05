@@ -11,6 +11,18 @@ Provisional name: "hobos"
 
 Basic idea: dumb speaker + basic single-board pc (e.g. Pi Zero W) + linux with mpd ⇒ profit
 
+## Timeline
+
+### 2020-10-15
+
+- flashed linux onto it
+
+### 2021-02-02
+
+- installed mpd, and ympd for gui
+- mounted NFS share with music
+- assembled in a temp. case
+
 ## Hardware
 Done:
 
